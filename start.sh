@@ -1,0 +1,2 @@
+#!/bin/bash
+PORT=${1:-8000} docker compose up --build
