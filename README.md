@@ -38,7 +38,7 @@ That's it. No Java or Maven installation required — the build happens inside D
 
 **Windows:**
 ```cmd
-run.bat 8080
+./run.bat 8080
 ```
 Replace `8080` with any available port. The application will be available at `http://localhost:8080`.
 
